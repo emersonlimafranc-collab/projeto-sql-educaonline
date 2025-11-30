@@ -1,0 +1,5 @@
+DELETE FROM PROGRESSO WHERE concluida = 0;
+
+DELETE FROM AULA WHERE id_aula = 3;
+
+DELETE FROM MATRICULA WHERE status = 'cancelada';
